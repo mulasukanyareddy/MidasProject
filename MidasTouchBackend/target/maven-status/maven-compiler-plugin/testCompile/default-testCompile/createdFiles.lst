@@ -1,0 +1,9 @@
+com\MidasTouchBackend\OrderTableTestCase.class
+com\MidasTouchBackend\CategoryTestCase.class
+com\MidasTouchBackend\ProductTestCase.class
+com\MidasTouchBackend\UserTestCase.class
+com\MidasTouchBackend\SupplierTestCase.class
+com\MidasTouchBackend\AddressTestCase.class
+com\MidasTouchBackend\My_CartTestCase.class
+com\MidasTouchBackend\ContactTestCase.class
+com\MidasTouchBackend\AppTest.class
